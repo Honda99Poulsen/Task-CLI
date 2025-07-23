@@ -132,7 +132,7 @@ Este proyecto fue creado como una práctica para trabajar con:
 
 ## 🧑‍💻 Autor
 
-Desarrollado por **[Tu Nombre Aquí]**  
+Desarrollado por **Elías Zavala**  
 Proyecto de práctica con Node.js CLI 💻
 
 ---
