@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "description": "Comprar Boleto 4 Fanstasticos",
+    "status": "todo",
+    "createdAt": "2025-07-23T16:19:53.023Z",
+    "updateAt": "2025-07-23T16:19:53.024Z"
+  },
+  {
+    "id": 3,
+    "description": "Practicar comandos CLI",
+    "status": "todo",
+    "createdAt": "2025-07-23T16:52:21.927Z",
+    "updateAt": "2025-07-23T16:52:21.928Z"
+  }
+]
